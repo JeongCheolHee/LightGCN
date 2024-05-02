@@ -1,3 +1,7 @@
 # LightGCN
 
-LightGCN 구현을 연습한 것 입니다
+Pytorch를 이용한 LightGCN 구현 연습
+paper : SIGIR 2020. Xiangnan He, Kuan Deng ,Xiang Wang, Yan Li, Yongdong Zhang, Meng Wang(2020). LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
+
+Dataset : Gowalla, Yelp2018, Amazon-book and one small dataset LastFM
+
